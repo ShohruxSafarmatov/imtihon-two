@@ -1,0 +1,17 @@
+.product__img-list {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.product__img-item {
+  width: 25% !important;
+}
+
+.product__img-item {
+  width: 40% !important;
+}
+
+.product__img-item {
+  width: 25% !important;
+}/*# sourceMappingURL=produtcs-img.css.map */
